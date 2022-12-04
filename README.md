@@ -1,3 +1,3 @@
 # Livro de receitas :book:
 Olá, bem vindo ao livro de receitas
- - Almondegas
+ - Almôndegas
