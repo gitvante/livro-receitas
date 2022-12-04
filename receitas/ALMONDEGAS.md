@@ -1,4 +1,4 @@
-# ALMONDEGAS :cow:
+# ALMÔNDEGAS :cow:
 
 ### INGREDIENTES
  - 500 g de carne moída
